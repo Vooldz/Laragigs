@@ -34,6 +34,11 @@ php artisan migrate --seed
 ```bash
 php artisan serve
 ```
+8. Link the storage folder to public so uploaded files are accessible:
+```bash
+php artisan storage:link
+```
+
 
 ## Usage
 Once the server is running, you can access the platform by navigating to ```http://localhost:8000``` in your web browser. From there, you can create an account, post a job, or search for jobs.
