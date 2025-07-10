@@ -8,11 +8,11 @@ To install this project, follow the steps below:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Vooldz/laravel-jobs.git
+git clone https://github.com/Vooldz/Laragigs.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd laravel-jobs
+cd Laragigs
 ```
 3. Install dependencies:
 ```bash
